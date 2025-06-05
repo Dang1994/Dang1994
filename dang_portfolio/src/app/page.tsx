@@ -16,8 +16,7 @@ export default function Home() {
       {/* Left Side: Profile and Contact Info */}
       <div className="flex flex-col items-center md:items-start md:w-1/2 space-y-4">
         <img
-          src="/profile-photo.jpg"
-          alt="Subrat Kumar Dang"
+          src="/photo.jpg"
           className="rounded-full w-40 h-40 border-4 border-gray-300 shadow-md"
         />
         <h1 className="text-3xl font-bold text-center md:text-left">
