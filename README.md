@@ -30,7 +30,7 @@
 
 * 📧 Email: \[subrat.me@sric.iitr.ac.in]
 * 🔗 LinkedIn: \[www.linkedin.com/in/subratdang]
-* 🌐 Website: \[https://sites.google.com/view/subratdang/home]
+* 🌐 Website: \[https://sites.google.com/view/subratdang/home ]
 
 ---
 
