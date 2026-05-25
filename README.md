@@ -1,4 +1,4 @@
-## Hi there 👋, I’m Subrat Kumar
+## Hi there 👋, I’m Subrat Kumar Dang
 
 🎓 Researcher at **IIT Roorkee (MIED)**, working under **Dr. Vidit Gaur**.
 💡 Passionate about building **AI-driven systems for advanced materials discovery & design**.
@@ -28,7 +28,7 @@
 
 ### 📫 How to reach me
 
-* 📧 Email: \[subrat.me@sric.iitr.ac.in]
+* 📧 Email: \[w.subrat@gmail.com]
 * 🔗 LinkedIn: \[www.linkedin.com/in/subratdang]
 * 🌐 Website: \[https://sites.google.com/view/subratdang/home ]
 
